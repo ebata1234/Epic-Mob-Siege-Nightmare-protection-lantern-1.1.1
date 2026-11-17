@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "hanging=false": { "model": "nightmareesm:block/protection_lantern" },
+    "hanging=true":  { "model": "nightmareesm:block/protection_lantern_hanging" }
+  }
+}
